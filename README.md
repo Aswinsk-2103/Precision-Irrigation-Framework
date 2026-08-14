@@ -1,5 +1,7 @@
 # 🌱 ML-Based Precision Irrigation Framework
 
+https://precision-irrigation-framework.vercel.app?_vercel_share=YaEXvPZtbCKT7urqaNWY8p9909zAA7PT
+
 > **Machine Learning-Based Precision Irrigation Framework Using Soil Sensor and Weather Data for Smart Water Management**
 
 A complete, demo-ready AI-powered smart irrigation system that integrates IoT sensor simulation, real-time weather data, Random Forest Machine Learning, FastAPI backend, MongoDB, and a React dashboard.
