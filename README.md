@@ -6,6 +6,18 @@ https://precision-irrigation-framework.vercel.app?_vercel_share=YaEXvPZtbCKT7urq
 
 A complete, demo-ready AI-powered smart irrigation system that integrates IoT sensor simulation, real-time weather data, Random Forest Machine Learning, FastAPI backend, MongoDB, and a React dashboard.
 
+## What was the project ?
+
+PrecisionIrrigate is a smart agriculture / precision irrigation system designed to help farmers decide when and how much water should be given to crops.
+
+Instead of watering the entire field using a fixed schedule, the system aims to make irrigation data-driven.
+
+The basic idea is:
+
+Give the right amount of water, to the right crop, at the right time.
+
+This is the fundamental principle of precision irrigation: water and nutrients are supplied in small, controlled amounts according to the crop's actual requirements.
+
 ---
 
 ## 🏗️ Project Architecture
