@@ -18,8 +18,6 @@ Give the right amount of water, to the right crop, at the right time.
 
 This is the fundamental principle of precision irrigation: water and nutrients are supplied in small, controlled amounts according to the crop's actual requirements.
 
-## To know more : https://chatgpt.com/share/6aa4ef64-0630-83ee-949e-eafab05ad899
-
 ---
 
 ## 🏗️ Project Architecture
